@@ -5,7 +5,7 @@ from generate_password import generate_password, save_password
 def main():
     st.title("Password generator")
 
-    st.text("Choose your password length")
+    st.info("Choose your password length")
     length = st.slider("Password Length", min_value=6, max_value=30, value=12)
 
     use_lowercase = st.checkbox("Use Lowercase Letters")
