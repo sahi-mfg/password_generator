@@ -9,6 +9,7 @@ Streamlit web app for strong password generation
 - Run the app.py file
 
 ```bash
+  git clone git@github.com:momosahi/password_generator.git
   pip install -r requirements.txt
   streamlit run app.py
 ```
