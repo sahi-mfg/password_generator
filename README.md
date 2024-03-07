@@ -22,6 +22,4 @@ Streamlit web app for strong password generation
 - Click on the "Generate" button
 - Copy the generated password
 
-<video width="320" height="240" controls>
-  <source src="demo-password-gen.mov" type="video/mp4">
-</video>
+![](demo-password-gen.gif)
